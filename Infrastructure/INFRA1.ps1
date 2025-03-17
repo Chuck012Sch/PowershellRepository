@@ -1,0 +1,1 @@
+﻿Write-Host "This is INFRA1 Script"
